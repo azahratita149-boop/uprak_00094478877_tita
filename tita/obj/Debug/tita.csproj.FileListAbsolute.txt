@@ -1,0 +1,7 @@
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.csproj.AssemblyReference.cache
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.FormDashboard.resources
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.Formlogin.resources
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.FormRegister.resources
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.Properties.Resources.resources
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.csproj.GenerateResource.cache
+D:\uprak_00094478877_tita\tita\obj\Debug\tita.csproj.CoreCompileInputs.cache

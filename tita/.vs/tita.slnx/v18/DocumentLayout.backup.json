@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uprak_00094478877_tita\\tita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|d:\\uprak_00094478877_tita\\tita\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|D:\\uprak_00094478877_tita\\tita\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4BF1888-7EB2-4270-89F3-1B82F65DC45F}|tita.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formlogin.cs",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\Formlogin.cs",
+              "RelativeDocumentMoniker": "Formlogin.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\Formlogin.cs",
+              "RelativeToolTip": "Formlogin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:55:29.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\FormRegister.cs",
+              "RelativeToolTip": "FormRegister.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:46:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FormDashboard.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\FormDashboard.cs",
+              "RelativeToolTip": "FormDashboard.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:39:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FormDashboard.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:22:25.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\FormRegister.cs [Design]",
+              "RelativeToolTip": "FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:22:02.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formlogin.cs [Design]",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\Formlogin.cs",
+              "RelativeDocumentMoniker": "Formlogin.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\Formlogin.cs [Design]",
+              "RelativeToolTip": "Formlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:21:32.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\uprak_00094478877_tita\\tita\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\uprak_00094478877_tita\\tita\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T00:20:04.491Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
